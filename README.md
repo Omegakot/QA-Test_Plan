@@ -60,7 +60,9 @@
 
 <https://app.qase.io/case/1COURSE-2#comments>
 
-[QASE.IO](https://app.qase.io/) : login: <axxx777@yandex.ru> pass: 12345678
+[QASE.IO](https://app.qase.io/) : 
+
+login: <axxx777@yandex.ru> pass: 12345678
 ## **Виды проводимого тестирования**
 Функциональное и нефункциональное тестирование:
 
@@ -68,11 +70,11 @@
 
 - чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115177/details>
 
-\2. Редактирование события 
+2. Редактирование события 
 
 - чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115227/details>
 
-\3. Удаление события 
+3. Удаление события 
 
 - чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115186/details>
 
