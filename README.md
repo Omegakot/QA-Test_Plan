@@ -66,25 +66,25 @@ login: <axxx777@yandex.ru> pass: 12345678
 ## **Виды проводимого тестирования**
 Функциональное и нефункциональное тестирование:
 
-1.Добавление события 
+1. Добавление события 
 
-- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115177/details>
+>- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115177/details>
 
 2. Редактирование события 
 
-- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115227/details>
+>- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115227/details>
 
 3. Удаление события 
 
-- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115186/details>
+>- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115186/details>
 
-4.Отображение события при совмещении урока 
+4. Отображение события при совмещении урока 
 
-- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115228/details>
+>- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115228/details>
 
 Исследовательское тестирование:
 
-- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115354/details>
+>- чек лист: <https://chlist.sitechco.ru/project/25280/checklist/1115354/details>
 
 Smoke тесты: <https://app.qase.io/project/1COURSE?suite=3>
 
@@ -92,7 +92,7 @@ Smoke тесты: <https://app.qase.io/project/1COURSE?suite=3>
 
 Postman collection: 
 
-![](Aspose.Words.12ff27b9-1c6c-4fd7-adc3-3552878d287d.001.png)
+[Collection](https://drive.google.com/file/d/1c23KD-Tc-Ig7yARGe2LF6IC_FM6pSP6J/view?usp=sharing)
 
 *Доступ к чек листам и ТMS*:
 
