@@ -116,8 +116,6 @@ login: <axxx777@yandex.ru> pass: 12345678
 ## **«Отчет о тестировании итогового проекта»**
 Все тесты проведены в указанный срок.
 
-**Результаты отчетов о тестировании**
-
 Были проведены следующие виды тестирования: 
 
 - функциональное ( via User Intrface, via API ), 
@@ -148,15 +146,15 @@ login: <axxx777@yandex.ru> pass: 12345678
 
 логин: <axxx777@yandex.ru> пароль: 12345678
 
-Баг репорты по новому функционалу: 
+>**Баг репорты по новому функционалу**: 
 
-c высоким приоритетом(High):
+**c высоким приоритетом(High)**:
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7?selectedIssue=XMSX-11>
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7?selectedIssue=XMSX-20>
 
-со средним приоритетом (Medium):
+**со средним приоритетом (Medium)**:
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7?selectedIssue=XMSX-2>
 
@@ -164,7 +162,7 @@ c высоким приоритетом(High):
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7?selectedIssue=XMSX-18>
 
-с низким приоритетом(Low):
+**с низким приоритетом(Low)**:
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7>
 
@@ -194,12 +192,12 @@ c высоким приоритетом(High):
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7?selectedIssue=XMSX-19>
 
-с незначительным приоритетом (Lowest):
+**с незначительным приоритетом (Lowest)**:
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7?selectedIssue=XMSX-21>
 
 <https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7?selectedIssue=XMSX-22>
-#### **Метрика**
+## **Метрика**
 успешность прохождение smoke-тестов: **100%**
 
 успешность прохождение чек-листов функционального и нефункционального тестирования составляет: **79%**
