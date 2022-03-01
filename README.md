@@ -126,10 +126,10 @@ login: <axxx777@yandex.ru> pass: 12345678
 
 Были проведены следующие виды тестирования: 
 
-- функциональное ( via User Intrface, via API ), 
-- нефункциональное(UI)
-- smoke, регресс тестирование
-- сценарное, исследовательское
+>- функциональное ( via User Intrface, via API ), 
+>- нефункциональное(UI)
+>- smoke, регресс тестирование
+>- сценарное, исследовательское
 
 применены следующие техники тест дизайна при составлении чек листов: 
 
@@ -141,10 +141,10 @@ login: <axxx777@yandex.ru> pass: 12345678
 
 Сформирован отчет по результатам прохождения тестирования по чек листам: 
 
-- Добавление события : <https://chlist.sitechco.ru/project/25280/checklist/result/200209/details>
-- Удаление события: <https://chlist.sitechco.ru/project/25280/checklist/result/200210/details>
-- Редактирования события: <https://chlist.sitechco.ru/project/25280/checklist/result/200217/details>
-- Отображение события: <https://chlist.sitechco.ru/project/25280/checklist/result/200211/details>
+>- Добавление события : <https://chlist.sitechco.ru/project/25280/checklist/result/200209/details>
+>- Удаление события: <https://chlist.sitechco.ru/project/25280/checklist/result/200210/details>
+>- Редактирования события: <https://chlist.sitechco.ru/project/25280/checklist/result/200217/details>
+>- Отображение события: <https://chlist.sitechco.ru/project/25280/checklist/result/200211/details>
 
 Отчет по исследовательскому тестированию: <https://chlist.sitechco.ru/project/25280/checklist/result/200266/details>
 
