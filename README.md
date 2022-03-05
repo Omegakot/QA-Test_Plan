@@ -96,9 +96,9 @@
 
 *Доступ к чек листам и ТMS*:
 
-<https://chlist.sitechco.ru/> логин: пароль: 
+<https://chlist.sitechco.ru/> 
 
-<http://qase.io> логин:  пароль: 
+<http://qase.io> 
 
 <h2 align=center>Cроки тестирования</h2>
 
@@ -152,7 +152,7 @@
 #### **Баг репорты**
 Ссылка на проект в JIRA: [Course](https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7)
 
-логин: пароль:
+
 
 >**Баг репорты по новому функционалу**: 
 
