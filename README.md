@@ -45,7 +45,7 @@
 
 [карта функционала "Личные события"](https://miro.com/app/board/o9J_liIdz7g=/)
 
-логин: v.a.evtushenko@yandex.ru пароль: 12345678
+
 
 <h2 align=center>Приемочные тест-кейсы</h2>
 
@@ -61,7 +61,7 @@
 
 [QASE.IO](https://app.qase.io/) : 
 
-login: <axxx777@yandex.ru> pass: 12345678
+
 <h2 align=center>Тестовая документация</h2>
 
 **Функциональное и нефункциональное тестирование**:
@@ -96,9 +96,9 @@ login: <axxx777@yandex.ru> pass: 12345678
 
 *Доступ к чек листам и ТMS*:
 
-<https://chlist.sitechco.ru/> логин: axxx777@yandex.ru пароль: 12345678
+<https://chlist.sitechco.ru/> логин: пароль: 
 
-<http://qase.io> логин: axxx777@yandex.ru пароль: 12345678
+<http://qase.io> логин:  пароль: 
 
 <h2 align=center>Cроки тестирования</h2>
 
@@ -152,7 +152,7 @@ login: <axxx777@yandex.ru> pass: 12345678
 #### **Баг репорты**
 Ссылка на проект в JIRA: [Course](https://evtushenko.atlassian.net/jira/software/projects/XMSX/boards/7)
 
-логин: <axxx777@yandex.ru> пароль: 12345678
+логин: пароль:
 
 >**Баг репорты по новому функционалу**: 
 
